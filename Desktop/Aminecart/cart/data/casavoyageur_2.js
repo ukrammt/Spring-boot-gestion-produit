@@ -1,0 +1,1 @@
+var json_casavoyageur_2 = {"type":"FeatureCollection","name":"casavoyageur_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","référance":"Casa Voyageurs","x":"296658","y":"334585"},"geometry":{"type":"Point","coordinates":[-7.589908828994962,33.590092136554368]}}]}
